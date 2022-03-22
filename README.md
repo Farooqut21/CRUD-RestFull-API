@@ -7,10 +7,14 @@ technical challenge (Auxin Security)
  2) after installing them you can the run the project by using the command python manage.py runserver in cfehome folder 
 
 APIS end points are as follows:
+
 create/view list:  http://127.0.0.1:8000/api/covid/
+
 detail view : http://127.0.0.1:8000/api/covid/4/
-update :http://127.0.0.1:8000/api/covid/4/update
-delete :http://127.0.0.1:8000/api/covid/4/delete
+
+update :http://127.0.0.1:8000/api/covid/4/update/
+
+delete :http://127.0.0.1:8000/api/covid/4/delete/
 
 for admin:
 http://127.0.0.1:8000/admin/ #to give permission or create user 
