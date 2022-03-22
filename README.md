@@ -33,5 +33,7 @@ username : staff-2  # can only view
 
 password : test12345
 
+note! please use admin site to login 
+
 please check py_client folder to where you can directly use the endpoint without the need of browser
 also i have performed only 2 tests one will be return ok(creating of user) the other will false(due to no token for authentication) 
